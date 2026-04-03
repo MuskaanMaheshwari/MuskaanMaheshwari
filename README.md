@@ -1,17 +1,42 @@
-👋 Hey there, fellow explorer of code and curiosity!
+## 🚀 Muskaan Maheshwari — Robotics & Automation Engineer
 
-🚀 Welcome to my GitHub profile! I'm a robotics enthusiast and software engineer with a passion for pushing the boundaries of technology. From coding to robotics, I'm all about turning ideas into reality through clean code and innovative solutions.
+**IIT Palakkad → MS Robotics & AI (ASU) → Industrial Robotics @ JagCo (Lucid Motors projects)**
 
-🔭 Currently, I'm diving deep into building an Adaptive System for an Autonomous Bike, where I'm combining my expertise in ROS to create exciting automation and robotics applications. I love tackling complex challenges and finding elegant solutions.
+🇮🇳 Currently in India | Open to roles in **automation, robotics, and autonomous systems**
 
-🌱 I believe in the power of continuous learning and exploration. You'll find a mix of personal projects, code experiments, and collaborations that reflect my curiosity for emerging technologies and their real-world applications.
+---
 
-💬 Let's connect! I'm always up for discussions and collaborations. Whether it's robotics, software development, or just geeking out about the latest tech trends, feel free to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/muskaan-maheshwari-0103/) as well.
+## ⚙️ What I Actually Build
 
-🎮 When I'm not coding, you can find me exploring the great outdoors, experimenting with cooking, or diving into a captivating sci-fi novel.
+* Deployed **21+ AMRs (TK Systems) at Lucid Motors** → real factory integration, not simulation
+* Programmed **Fanuc & Jaka robotic arms** → production-grade workflows
+* Built **computer vision systems** → OpenCV, YOLO, depth sensing for real-world use
+* Applied **reinforcement learning** → navigation + decision systems
+
+---
+
+## 🧠 Focus Areas
+
+Industrial Automation • Autonomous Navigation • Robot Integration • CV for Robotics
+
+---
+
+<!--## 📌 Featured Work
+
+⬇️ Real projects below (code + demos + results)
+
+--->
+
+## 📫 Contact
+
+* [LinkedIn](https://www.linkedin.com/in/muskaan-maheshwari-0103/)
+* Email: muskaanmaheshwari13@gmail.com
+
+<!---
 
 🔗 [Check out my LinkedIn](https://www.linkedin.com/in/muskaan-maheshwari-0103/) | 📧 Contact: muskaanmaheshwari13@gmail.com
-
+-->
+---
 Happy coding, and let's build the future together! 🌟
 
 <!--
