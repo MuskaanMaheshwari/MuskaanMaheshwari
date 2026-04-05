@@ -3,9 +3,9 @@
 <h3 align="center">Robotics & Automation Engineer | IIT Palakkad | MS Arizona State University</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muskaan-maheshwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muskaanmaheshwari13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://muskaanmaheshwari.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muskaan-maheshwari-0103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Email-muskaanmaheshwari13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/MuskaanMaheshwari"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,16 +76,13 @@ I'm a **Robotics & Automation Engineer** with **4+ years** of hands-on experienc
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanMaheshwari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskaanMaheshwari&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanMaheshwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanMaheshwari&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanMaheshwari&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
@@ -103,7 +100,7 @@ I'm a **Robotics & Automation Engineer** with **4+ years** of hands-on experienc
 <p align="center">
   <i>"From deploying robots on factory floors to building intelligent autonomous systems — I bring production experience to every line of code."</i>
 </p>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuskaanMaheshwari&color=blueviolet&style=flat-square" />
 </p>
