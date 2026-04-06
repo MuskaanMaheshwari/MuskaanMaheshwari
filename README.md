@@ -16,7 +16,7 @@ I'm a **Robotics & Automation Engineer** with **4+ years** of hands-on experienc
 
 - 🎓 **MS Robotics & Autonomous Systems (AI)** — Arizona State University
 - 🎓 **B.Tech Electrical Engineering** — IIT Palakkad
-- 🏭 Commissioned **21 AMRs** at Lucid Motors' battery production floor
+- 🏭 Commissioned **AMRs** at Lucid Motors' battery production floor
 - 🦾 Programmed **Fanuc robots, Jaka cobots**, and integrated fleet management systems
 - 🔬 Built AI systems: computer vision, NLP, reinforcement learning, sensor fusion
 - 🇮🇳 Based in India | Open to roles in Bengaluru, Pune, NCR, Hyderabad
